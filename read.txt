@@ -1,0 +1,2 @@
+First create a database named `test1`. 
+Then the table named `cards` will import the database named `test1`.
